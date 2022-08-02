@@ -8,13 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagalladka0001&label=Profile%20views&color=0e75b6&style=flat" alt="pagalladka0001" /> </p>
 
-- 🔭 I’m currently working on Cloud-music **Cloud-Music**
+- 🔭 I’m currently working on **Cloud-Music**
 
 - 🌱 I’m currently learning **React, flutter**
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **pagalladka0000001@gmail.com**
+- 📫 How to reach me 
+**pagalladka0000001@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -26,9 +27,7 @@
 
 <a href="https://instagram.com/_.pagal_ladka._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.pagal_ladka.__" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/Sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahil" height="30" width="40" /></a>
-
-<a href="https://discord.gg/discord.gg/darknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/darknight" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwoPyz_H78_H0HTKjIQwq7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahil" height="30" width="40" /></a>
 
 </p>
 
