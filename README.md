@@ -24,9 +24,9 @@
 
 <a href="https://linkedin.com/in/pᴀɢᴀʟサlᴀᴅᴋᴀ-523484247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilサarun♡" height="30" width="40" /></a>
 
-<a href="https://instagram.com/__.pagal_ladka.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.pagal_ladka.__" height="30" width="40" /></a>
+<a href="https://instagram.com/_.pagal_ladka._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.pagal_ladka.__" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/Sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahil" height="30" width="40" /></a>
 
 <a href="https://discord.gg/discord.gg/darknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/darknight" height="30" width="40" /></a>
 
