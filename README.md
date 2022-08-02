@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Cloud-music **Cloud-Music**
 
-- 🌱 I’m currently learning **React, dart**
+- 🌱 I’m currently learning **React, flutter**
 
 - 💬 Ask me about **Android**
 
