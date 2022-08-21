@@ -8,16 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagalladka0001&label=Profile%20views&color=0e75b6&style=flat" alt="pagalladka0001" /> </p>
 
-- 🔭 I’m currently working on **Cloud-Music**
+- 🔭 I’m currently working on **Music-app**
 
-- 🌱 I’m currently learning **React, flutter**
+- 🌱 I’m currently learning **Ruby language**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, iOS**
 
 - 📫 How to reach me 
 **pagalladka000001@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny 🙂**
 
 <h3 align="left">Connect with me:</h3>
 
