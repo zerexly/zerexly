@@ -33,7 +33,7 @@
  <a href="http://discord.com/users/Pagal-Ladka...!!#6111"><img src="https://cdn.discordapp.com/emojis/891714351432601680.png" height="40px"/></a>   
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/926712074132930660?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Working%on%20a discord%20bot...)](https://discord.com/users/926712074132930660)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/926712074132930660?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Working%on a%20discord%20bot...)](https://discord.com/users/926712074132930660)
 
 <h3 align="left"> • Github Stats</h3>
 <a href="https://github.com/PagalLadka0001/github-readme-stats">
