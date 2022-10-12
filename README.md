@@ -26,7 +26,7 @@
 
 ---
 <a href="https://open.spotify.com/user/31552lvycjt24lrfsvmogpidhlum">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hyy6vwyhhsuqfylmt6p5ef6sfu&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hyy6vwyhhsuqfylmt6p5ef6sfu&cover_image=true&theme=novatorem&bar_color=040404&bar_color_cover=true"/>
     </a>
 
 <h3 align="left"> • Contact Me</h3>
