@@ -40,8 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PagalLadka0001&count_private=true&show_icons=true&locale=en&theme=gotham&&hide=contribs"/>
 </a>
 <a href="https://github.com/PagalLadka0001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpkpnywastaken&theme=gotham&show_icons=true&locale=en&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PagalLadka0001&theme=gotham&show_icons=true&locale=en&layout=compact"/>
 </a>
+
+<a href="https://github.com/PagalLadka0001"><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PagalLadka0001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![Snake animation](https://github.com/xFGhoul/xFGhoul/blob/output/github-contribution-grid-snake.svg)
 
@@ -50,6 +52,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PagalLadka0001&label=Profile%20views&color=0e75b6&style=flat-square" alt="xfghoul" /> </p>
 
-<h3 align="left"> • Metrics</h3>
-
-![Metrics](https://github.com/PagalLadka0001/AboutMe/blob/main/github-metrics.svg)
