@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=43zAeubINaItVCIhyhtzDf&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=43zAeubINaItVCIhyhtzDf&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2W5j6HlejBMhmiEoat8I8N&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2W5j6HlejBMhmiEoat8I8N&redirect=true)
   
  ## 💻Tech Stack
 
