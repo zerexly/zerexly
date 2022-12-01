@@ -1,7 +1,7 @@
 
 [![MasterHead](https://media.discordapp.net/attachments/993035774171807744/1029673007544815636/New_Project_171_E0C2CCB.png)](https://github.com/PagalLadka0001)
 
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sahil Arun   <a href="http://discord.com/users/Pagal-Ladka...!!#6111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Pagal Ladka...!!#6111" height="40" width="30" /></a>&nbsp; </h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sahil Arun   <a href="http://discord.com/users/Pagal-Ladka...!!#6111" target="blank"></a>&nbsp; </h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me
 
