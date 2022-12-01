@@ -18,7 +18,7 @@
 <br>
 
 - :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
-- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
+- :mortar_board: Studying: <strong>Flutter | TypeScript</strong>.
 - :briefcase: I am currently looking for a job as Frontend Developer.
 
 <br>
@@ -26,5 +26,5 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=martins-rafael&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=PagalLadka0001&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
