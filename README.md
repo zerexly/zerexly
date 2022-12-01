@@ -1,14 +1,32 @@
+# Rafael Martins
 
-[![MasterHead](https://media.discordapp.net/attachments/993035774171807744/1029673007544815636/New_Project_171_E0C2CCB.png)](https://github.com/PagalLadka0001)
+<img align="right" width="300px" src="./bio-image.svg" />
 
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sahil Arun   <a href="http://discord.com/users/Pagal-Ladka...!!#6111" target="blank"></a>&nbsp; </h1>
+<p align="left">
+  <a href="mailto:rafaeldcmartins@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafaeldcmartins">
+    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/martins-rafael/?tab=follow">
+    <img src="https://img.shields.io/github/followers/martins-rafael?label=Follow&style=social" />
+  </a>
+</p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me
+<br>
 
-- 🏦 I'm a Simple coder  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I am currently Learning [Reverse Engineering](https://github.com/tylerha97/awesome-reversing)
-- 💻 I am currently working on [Silent Ocean Bot](https://github.com/PagalLadka0001)
-- 📖 I am currently reading [The Beginning After The End](https://www.lightnovelpub.com/novel/the-beginning-after-the-end-novel-27072145)
+- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
+- :mortar_board: Studying: <strong>Next.js | TypeScript</strong>.
+- :briefcase: I am currently looking for a job as Frontend Developer.
 
+<br>
 
----
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=martins-rafael&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
