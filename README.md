@@ -16,9 +16,8 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL.</strong>
+- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL | PHP.</strong>
 - :mortar_board: Studying: <strong>Flutter | TypeScript</strong>.
-- :briefcase: I am currently looking for a job as Frontend Developer.
 
 <br>
 
