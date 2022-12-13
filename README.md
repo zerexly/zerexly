@@ -9,8 +9,8 @@
   <a>
     <img src="https://img.shields.io/badge/!   Billaaaaaaaaa%236111-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
-  <a href="https://github.com/PagalLadka0001/?tab=follow">
-    <img src="https://img.shields.io/github/followers/PagalLadka0001?label=Follow&style=social" />
+  <a href="https://github.com/sahilarun/?tab=follow">
+    <img src="https://img.shields.io/github/followers/sahilarun?label=Follow&style=social" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=PagalLadka0001&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=sahilarun&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
