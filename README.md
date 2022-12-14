@@ -18,7 +18,7 @@
 
 - :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL | PHP.</strong>
 - :mortar_board: Studying: <strong>Flutter | TypeScript</strong>.
-
+- :open_book: Currently working on <strong>iSoulZ music app</strong>
 <br>
 
 <img
