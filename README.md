@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-sahilarun777@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilarun777@gmail.com" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/NotHerHacker%236111-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sahil_xD%236111-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
   <a href="https://github.com/sahilarun/?tab=follow">
     <img src="https://img.shields.io/github/followers/sahilarun?label=Follow&style=social" />
