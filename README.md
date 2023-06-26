@@ -1,40 +1,50 @@
-# Sahil Arun
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+sahil!%22;%22Welcome+to+my+profile!%22" alt="Hello it's sahil" />
+<a href="https://discord.com/users/1111132424844357692"><img src="./memoji1.png" align="right" height="275" /></a>
 
-<img align="right" width="300px" src="./bio-image.svg" />
+My name is Sahil Arun and I'm a Backend Developer. I'm from India, living in Odisha.
+- This is the place where I opensource stuff and break things 🤣
 
-<p align="left">
-  <a href="sahilarun777@gmail.com">
-    <img src="https://img.shields.io/badge/-sahilarun777@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilarun777@gmail.com" />
+- A little more about me...
+```javascript
+const sahil = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+**Projects** 
+
+- [Socialite UI](https://github.com/sahilarun/Socialite-UI.git),
+- [Socialite Backend](https://github.com/sahilarun/Socialite),
+- [Spectraz](https://github.com/sahilarun/Spectraz.git),
+- [QUICKAI-2.3](https://github.com/sahilarun/QUICKAI-2.3.git)
+
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+  <a href= "https://github.com/sahilarun/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/notherposeidon.-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  <a href= "https://discord.com/users/1111132424844357692">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/discord.png"/>
   </a>
-  <a href="https://github.com/sahilarun/?tab=follow">
-    <img src="https://img.shields.io/github/followers/sahilarun?label=Follow&style=social" />
+  <a href="mailto:sahilarun777@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
 </p>
-
-<br>
-
-- :rocket: Skills: <strong>HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | ReactJS | Node.js | NPM / Yarn | PostgreSQL | PHP.</strong>
-- :mortar_board: Studying: <strong>Flutter | TypeScript</strong>.
-- :open_book: Good <strong>night</strong>
-<br>
-
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=sahilarun&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-</br>
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=flutter&logoColor=white&labelColor=8E2DE2)
-![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=8E2DE2)
-![Dart](https://img.shields.io/badge/-Dart-grey?style=for-the-badge&logo=Dart&logoColor=white&labelColor=8E2DE2)
