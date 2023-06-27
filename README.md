@@ -29,16 +29,16 @@ const sahil = {
 
 **Projects** 
 
-- [Socialite UI](https://github.com/sahilarun/Socialite-UI.git),
-- [Socialite Backend](https://github.com/sahilarun/Socialite),
-- [Spectraz](https://github.com/sahilarun/Spectraz.git),
-- [QUICKAI-2.3](https://github.com/sahilarun/QUICKAI-2.3.git)
+- [Socialite UI](https://github.com/BeingErebus/Socialite-UI.git),
+- [Socialite Backend](https://github.com/BeingErebus/Socialite),
+- [Spectraz](https://github.com/BeingErebus/Spectraz.git),
+- [QUICKAI-2.3](https://github.com/BeingErebus/QUICKAI-2.3.git)
 
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-  <a href= "https://github.com/sahilarun/">
+  <a href= "https://github.com/BeingErebus/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://discord.com/users/1111132424844357692">
