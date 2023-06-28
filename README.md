@@ -1,12 +1,12 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+sahil!%22;%22Welcome+to+my+profile!%22" alt="Hello it's sahil" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+sahil!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Poseidon" />
 <a href="https://discord.com/users/1111132424844357692"><img src="./face-memoji.png" align="right" height="275" /></a>
 
-My name is Sahil Arun and I'm a Backend Developer. I'm from India, living in Odisha.
+My name is Poseidon and I'm a Full Stack Developer. I'm from India.
 - This is the place where I opensource stuff and break things 🤣
 
 - A little more about me...
 ```javascript
-const sahil = {
+const Poseidon = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
