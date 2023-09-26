@@ -5,7 +5,7 @@ My name is Zerex.ly and I'm a Full Stack Developer. I'm from India.
 
 - A little more about me...
 ```javascript
-const Zerex.ly = {
+const zerexly = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
