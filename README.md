@@ -1,11 +1,11 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+zerexly!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Zerex.ly" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Sahil Arun!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Sahil Arun" />
 
-My name is Zerex.ly and I'm a Full Stack Developer. I'm from India.
+My name is Sahil Arun and I'm a Full Stack Developer. I'm from India.
 - This is the place where I opensource stuff and break things 🤣
 
 - A little more about me...
 ```javascript
-const zerexly = {
+const sahilarun = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -28,16 +28,16 @@ const zerexly = {
 
 **Projects** 
 
-- [Socialite UI](https://github.com/zerexly/Socialite-UI.git),
-- [Socialite Backend](https://github.com/zerexly/Socialite),
-- [Spectraz](https://github.com/zerexly/Spectraz.git),
-- [QUICKAI-2.3](https://github.com/zerexly/QUICKAI-2.3.git)
+- [Socialite UI](https://github.com/sahilarun/Socialite-UI.git),
+- [Socialite Backend](https://github.com/sahilarun/Socialite),
+- [Spectraz](https://github.com/sahilarun/Spectraz.git),
+- [QUICKAI-2.3](https://github.com/sahilarun/QUICKAI-2.3.git)
 
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-  <a href= "https://github.com/zerexly/">
+  <a href= "https://github.com/sahilarun/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://discord.com/users/1111132424844357692">
