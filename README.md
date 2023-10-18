@@ -1,14 +1,14 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+tamish!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Zerex" />
-<a href="https://discord.com/users/1111132424844357692"><img src="./face-memoji.png" align="right" height="275" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Zerex!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Zerex" />
 
-My name is Zerex and I'm a Full Stack Developer. I'm from India, living in Mumbai.
-- This is the place where I opensource stuff and explore things
+My name is Zerex and I'm a Full Stack Developer. I'm from India.
+- This is the place where I opensource stuff and break things 🤣
 
 - A little more about me...
-javascript
-const tamish = {
+
+```javascript
+const zerexly = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Kotlin", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
@@ -25,6 +25,7 @@ const tamish = {
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
 
 *Projects* 
 
@@ -163,11 +164,11 @@ const tamish = {
 
 <p align="center">
     
-<a href="https://github.com/mhatretamish?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mhatretamish&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@mhatretamish's github-readme-stats"/></a>
+<a href="https://github.com/zerexly?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=zerexly&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@zerexly's github-readme-stats"/></a>
 
 <h2 align="center"></h2>
 
-<a href="https://github.com/mhatretamish?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhatretamish&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@mhatretamish's github-readme-streak-stats"/></a>
+<a href="https://github.com/zerexly?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=zerexly&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@zerexly's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -175,8 +176,8 @@ const tamish = {
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@mhatretamish">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhatretamish&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+    <a href="https://wakatime.com/@zerexly">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerexly&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
@@ -184,9 +185,9 @@ const tamish = {
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhatretamish&layout=compact&theme=rose_pine" alt="Top Langs" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerexly&layout=compact&theme=rose_pine" alt="Top Langs" width="100%">
   </p>
 </div>
 <h2 align="center"></h2>
 
-![contributions](https://github.com/mhatretamish/mhatretamish/assets/89688277/c3b398a1-e117-486e-911e-bedb27fbb7ad)
+![contributions](https://github.com/mhatretamish/zerexly/assets/89688277/c3b398a1-e117-486e-911e-bedb27fbb7ad)
