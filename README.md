@@ -190,4 +190,8 @@ const zerexly = {
 </div>
 <h2 align="center"></h2>
 
-![contributions](https://github.com/mhatretamish/zerexly/assets/89688277/c3b398a1-e117-486e-911e-bedb27fbb7ad)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zerexly&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
