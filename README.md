@@ -1,29 +1,33 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Zerex!%22;%22Welcome+to+my+profile!%22" alt="Hello it's Zerex" />
 
 My name is Zerex and I'm a Full Stack Developer. I'm from India.
-- This is the place where I opensource stuff and break things 🤣
+- This is the place where I opensource stuff and break things 
 
 - A little more about me...
 
 ```javascript
 const zerexly = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Kotlin", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Rust", "Go", "Flutter", "Swift", "Javascript", "Docker", "AWS", "Solidity", "TypeScript", "PHP", "SWAY", "Three.js", "Dart", "Kotlin"],
+    askMeAbout: ["Full-Stack Development", "iOS", "Android", "Entrepreneurship"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
+            rust: ["Rocket"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development", "iOS Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "No specific focus at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    age: 18
+};
+
 };
 ```
 
