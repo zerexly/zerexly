@@ -23,7 +23,7 @@ const zerexly = {
         misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: "No specific focus at this time",
+    currentFocus: "Entrepreneurship",
     funFact: "There are two ways to write error-free programs; only the third one works",
     age: 18
 };
