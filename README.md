@@ -8,7 +8,7 @@ My name is Zerex and I'm a Full Stack Developer. I'm from India.
 ```javascript
 const zerexly = {
     pronouns: "He" | "Him",
-    code: ["Rust", "Go", "Flutter", "Swift", "Javascript", "Docker", "AWS", "Solidity", "TypeScript", "PHP", "SWAY", "Three.js", "Dart", "Kotlin"],
+    code: ["Rust", "Go", "Flutter", "Javascript", "Docker", "AWS", "Solidity", "TypeScript", "SWAY", "Three.js", "Dart", "Kotlin", "Etherium", "Solana", "Next.js"],
     askMeAbout: ["Full-Stack Development", "iOS", "Android", "Entrepreneurship"],
     technologies: {
         backEnd: {
@@ -33,10 +33,10 @@ const zerexly = {
 
 *Projects* 
 
-- [Socialite UI](https://github.com/sahilarun/Socialite-UI.git),
-- [Socialite Backend](https://github.com/sahilarun/Socialite),
-- [Spectraz](https://github.com/sahilarun/Spectraz.git),
-- [QUICKAI-2.3](https://github.com/sahilarun/QUICKAI-2.3.git)
+- [Socialite UI](https://github.com/zerexly/Socialite-UI.git),
+- [Socialite Backend](https://github.com/zerexly/Socialite),
+- [Spectraz](https://github.com/zerexly/Spectraz.git),
+- [QUICKAI-2.3](https://github.com/zerexly/QUICKAI-2.3.git)
 
 <h2 align="center">💻 Favourite Tools and Technologies:</h2>
 
@@ -49,9 +49,9 @@ const zerexly = {
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
       </a>
-      <br>Angular
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c#" alt="icon" width="65" height="65" />
@@ -84,19 +84,19 @@ const zerexly = {
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="65" height="65" />
+      <br>Rust
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Git" />
-      <br>Go
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Git" />
+      <br>Three.js
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
+      <br>React.js
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -115,8 +115,8 @@ const zerexly = {
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
     </td>
   </tr>
  <tr>
@@ -138,8 +138,8 @@ const zerexly = {
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
